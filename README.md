@@ -5,6 +5,7 @@ Tecnologias utilizadas:
 - React
 - Nextjs
 - Skynexui
+- Supabase
 
 [Imagem do login]
 ![image](https://user-images.githubusercontent.com/26098335/151737489-96d25478-3f0c-4e72-9186-46174a443da8.png)
