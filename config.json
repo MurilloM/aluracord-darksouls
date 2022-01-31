@@ -30,7 +30,30 @@
         }
       }
     },
+      "transparente": {
+        "fundo": "rgba(0, 0, 0, 0.8)",
+        "fundoSticker": "rgba(0, 0, 0, 2.0)",
+        "buttonRed": "#A71D31",
+        "buttonBlack": "#1C1C1C"
+      },
+
+    "userImageDefault": "./img/solaire.jpg",
+
     "stickers": [
+      "https://c.tenor.com/I0IAFoxtwoYAAAAC/dark-souls-barrel.gif",
+      "https://64.media.tumblr.com/d399df8f60eceeaad289f75804ff8e5a/tumblr_o5bue5GcrB1tgzy56o2_250.gifv",
+      "https://chpic.su/_data/stickers/d/Daeksouls/Daeksouls_010.webp",
+      "https://i.pinimg.com/originals/a5/39/fd/a539fd7828c02d2872c5c5eb1af3b97d.gif",
+      "https://img-05.stickers.cloud/packs/434fcb8a-3b87-475d-90ff-4437e3923c28/webp/68471333-f7fc-48e0-96d1-cb3b115560c2.webp",
+      "https://c.tenor.com/ZpBMkWyufhMAAAAC/dead.gif",
+      "https://img-05.stickers.cloud/packs/434fcb8a-3b87-475d-90ff-4437e3923c28/webp/e0ff4b06-7a27-4dc0-b866-6bc813926831.webp",
+      "https://giffiles.alphacoders.com/146/14693.gif",
+      "https://img-05.stickers.cloud/packs/4225b30b-9d5d-40a6-8512-8758259532c4/webp/9b84fbe9-06d4-49f7-b0b8-f205e38ad77c.webp",
+      "https://img-05.stickers.cloud/packs/4225b30b-9d5d-40a6-8512-8758259532c4/webp/c8a6dc8a-a200-4ad6-8652-938f92006b57.webp",
+      "https://pa1.narvii.com/7221/03dc6ebf0be4b872c2d15ab835ff90830e4c463br1-384-528_128.gif",
+      "https://stickerly.pstatic.net/sticker_pack/0yFYKB4RgeKxQgNvg4PvA/LML4LR/2/4cbd33f1-29ad-438c-8353-413e32597b10.png",
+      "https://steamuserimages-a.akamaihd.net/ugc/778479141106974450/D80D5DD33A90320FDB086080699834980355D68F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+      "https://steamuserimages-a.akamaihd.net/ugc/82596531523449021/3FC0CB7008CEB3C51A0D75641DA615591A4C2203/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
       "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_1.png",
       "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_2.png",
       "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_3.png",
