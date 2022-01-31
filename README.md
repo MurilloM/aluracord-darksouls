@@ -1,6 +1,8 @@
 # aluracord-darksouls
 Projeto de Discord na temática do jogo Dark Souls desenvolvido na Imersão React da Alura
 
+<a href="http://soulscord-alura.vercel.app/">Clique aqui para visualizar</a>
+
 Tecnologias utilizadas:
 - React
 - Nextjs
