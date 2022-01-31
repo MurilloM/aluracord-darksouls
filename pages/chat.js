@@ -238,7 +238,11 @@ function MessageList(props) {
                                     display: 'inline-block',
                                     marginRight: '8px',
                                 }}
-                                src={`https://github.com/${mensagem.de}.png`} />
+                                onError={(event) => {
+                                    event.target.src = appConfig.userImageDefault;
+                                }}
+                                src={`https://github.com/${mensagem.de}.png`}
+                            />
                             <Text tag="strong">
                                 {mensagem.de}
                             </Text>
